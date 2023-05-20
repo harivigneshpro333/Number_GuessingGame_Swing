@@ -44,7 +44,8 @@ Screenshots:
 ![Notice_value_low](https://github.com/harivigneshpro333/Number_GuessingGame_Swing/assets/127614305/7070d8fb-d189-42f9-89d5-fb798dd73e08)
 ![Notice_Value_High](https://github.com/harivigneshpro333/Number_GuessingGame_Swing/assets/127614305/33e8e08b-13c0-4784-a35d-35ab586a92f4)
 ![Won_page](https://github.com/harivigneshpro333/Number_GuessingGame_Swing/assets/127614305/c5f0b80f-ee77-479e-b021-cd221e1b3a1b)
-![End_Game](https://github.com/harivigneshpro333/Number_GuessingGame_Swing/assets/127614305/8eb9d0ef-f170-4d96-999b-265850844ec8)
+![End_Game](https://github.com/harivigneshpro333/Number_GuessingGame_Swing/assets/127614305/1eb32335-9617-4356-a12c-ec5ad4010941)
+
 
 
 
